@@ -1,1 +1,1 @@
-0 * * * * echo "1" >> /var/tmp/example.log
+0 * * * * echo "1" >> /var/tmp/test.log
